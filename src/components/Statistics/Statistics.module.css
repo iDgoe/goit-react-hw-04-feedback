@@ -1,0 +1,11 @@
+.positive {
+    font-weight: 500;
+    font-size: 14px;
+    margin-top: 15px;
+  }
+
+  ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+  }
